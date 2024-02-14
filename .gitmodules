@@ -1,0 +1,3 @@
+[submodule "folder-name"]
+	path = folder-name
+	url = https://github.com/artur-mal/StarterHelloWorld.git
